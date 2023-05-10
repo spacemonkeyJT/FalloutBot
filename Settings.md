@@ -10,7 +10,7 @@ Open the `config/settings.json` file, which will initially have some empty value
 | authToken | Authentication token to login to Twitch using the above account.                                                  |
 | channel   | Name of the channel that the bot should login to.                                                                 |
 
-To generate the auth token, use this link, and authorise using the account of your choice: https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=uxj8hdpst8v4lutkr842b3lxz8tp0o&redirect_uri=http://localhost:3000&scope=chat%3Aread+chat%3Aedit. The browser will then navigate to a new URL including the auth token, which you can copy and paste into the settings. This process will be improved in a future version.
+To generate the auth token, use [this link](https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=uxj8hdpst8v4lutkr842b3lxz8tp0o&redirect_uri=http://localhost:3000&scope=chat%3Aread+chat%3Aedit), and authorise using the account of your choice. The browser will then navigate to a new URL including the auth token, which you can copy and paste into the settings. This process will be improved in a future version.
 
 Other settings can be configured:
 
