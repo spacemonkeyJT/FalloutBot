@@ -6,10 +6,6 @@
 
 Shows your current points. Gain points by watching stream, cheering bits, subscribing, or gifting subs.
 
-### `#commands`
-
-Shows a link to this page.
-
 ### `#spawn <name>`
 
 Spawns one or more enemy NPCs, e.g. `#spawn ghouls` to spawn a group of ghouls!
