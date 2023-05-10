@@ -20,3 +20,11 @@ General settings are found in the `config/settings.json` file:
 By default the account and authToken are set up to use the bot account, JanglesTheBot. This is the user that will reply to commands in chat. This default account is set for out of the box convenience, but you can change this to another account, e.g. your own account, if you prefer.
 
 To generate a new auth token, use [this link](https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=uxj8hdpst8v4lutkr842b3lxz8tp0o&redirect_uri=http://localhost:3000&scope=chat%3Aread+chat%3Aedit), and authorise using the account of your choice. The browser will then navigate to a new URL including the auth token, which you can copy and paste into the settings. This process will be improved in a future version.
+
+## Commands
+
+Available commands, such as spawnable enemies, are found in the `config/commands.json` file.
+
+By default various commands are available with some preset costs, which can be easily edited.
+
+To add new types of spawns or other commands, see https://dl.covecube.com/F4CC/F4CC_CommandChannel.txt for details of the commands that can be used.
