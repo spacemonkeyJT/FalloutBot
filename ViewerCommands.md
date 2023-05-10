@@ -8,7 +8,7 @@ Shows your current points. Gain points by watching stream, cheering, subscribing
 
 ### `#commands`
 
-Shows a brief list of the available commands.
+Shows a link to this page.
 
 ### `#spawn <name>`
 

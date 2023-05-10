@@ -6,6 +6,8 @@
 
 Enables the bot. Initially the bot is disabled and won't respond to any other commands except `#status`.
 
+This requires Fallout 4 to be running and connected to the bot.
+
 ### `#disable`
 
 Disables the bot.
