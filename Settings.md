@@ -27,4 +27,4 @@ Available commands, such as spawnable enemies, are found in the `config/commands
 
 By default various commands are available with some preset costs, which can be easily edited.
 
-To add new types of spawns or other commands, see https://dl.covecube.com/F4CC/F4CC_CommandChannel.txt for details of the commands that can be used.
+To add new types of spawns or other commands, see [the F4CC command spec](https://dl.covecube.com/F4CC/F4CC_CommandChannel.txt) for details of the commands that can be used.
