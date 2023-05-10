@@ -1,3 +1,8 @@
-This is the readme.
+Twitch integration for Fallout 4.
 
-[Download](https://github.com/spacemonkeyJT/FalloutBot/releases/latest/download/FalloutBot.zip)
+## Contents
+
+* [Installation and setup](./Setup.md)
+* [Settings](./Settings.md)
+* [Viewer Commands](./ViewerCommands.md)
+* [Moderator Commands](./ModeratorCommands.md)
