@@ -11,4 +11,6 @@ Install and enable the F4CC mod in Fallout 4.
 
 Extract the FalloutBot.zip file somewhere, then run the FalloutBot.exe program to connect to Twitch. The first time it's run it will prompt for the channel to connect to, which will be reused for subsequent runs.
 
-When running, the app will log out some info to show whether it's connected successfully. In the Twitch chat of the configured channel, use the `#status` command to check if it's working, and `#enable` to enable the integration. See [Moderator Commands](./ModeratorCommands.md) and [Settings](./Settings.md) for more info.
+When running, the app will log out some info to show whether it's connected successfully. When Fallout 4 is launched with the F4CC mod installed, the app will connect to the game and you'll be ready to start giving it commands via Twitch chat.
+
+In the Twitch chat of the configured channel, use the `#status` command to check if it's working, and `#enable` to enable the integration. See [Moderator Commands](./ModeratorCommands.md) and [Settings](./Settings.md) for more info.
