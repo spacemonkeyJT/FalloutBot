@@ -4,7 +4,7 @@
 
 ### `#points`
 
-Shows your current points. Gain points by watching stream, cheering, subscribing, or gifting subs.
+Shows your current points. Gain points by watching stream, cheering bits, subscribing, or gifting subs.
 
 ### `#commands`
 
